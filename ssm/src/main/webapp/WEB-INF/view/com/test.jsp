@@ -12,6 +12,6 @@
 </head>
 <body>
 	姓名：${stu.name }<br/>
-	<img  src="<%=bpath %>/public/com/imgs/1.png">
+	<img  src="<%=bpath %>/public/com/imgs/1.jpg">
 </body>
 </html>
